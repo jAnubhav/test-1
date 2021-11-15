@@ -230,7 +230,7 @@ body {
         margin: 20px;
     }
     .container {
-        margin: 50px 5px;
+        margin: 50px 0;
         padding: 30px 15px;
     }
     .btn {
@@ -245,10 +245,6 @@ body {
 @media only screen and (max-width:400px) {
     main {
         padding: 0 20px;
-    }
-    .container {
-        margin: 50px 5px;
-        padding: 30px 15px;
     }
     .container hr {
         width: 95%;
