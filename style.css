@@ -88,7 +88,7 @@ body {
     position: fixed;
     width: 100vw;
     height: 100vh;
-    background: rgba(0, 0, 0, .6) url("../media/bg.jpeg") center center no-repeat;
+    background: rgba(0, 0, 0, .6) url("./bg.jpeg") center center no-repeat;
     background-size: cover;
     background-blend-mode: darken;
     z-index: -1;
